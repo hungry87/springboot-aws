@@ -1,0 +1,4 @@
+1665053933472|0|statement|connection 30|url jdbc:h2:mem:testdb|drop table if exists posts CASCADE |drop table if exists posts CASCADE 
+1665053933474|0|statement|connection 30|url jdbc:h2:mem:testdb|drop table if exists users CASCADE |drop table if exists users CASCADE 
+1665339331011|1|statement|connection 30|url jdbc:h2:mem:testdb|drop table if exists posts CASCADE |drop table if exists posts CASCADE 
+1665339331014|0|statement|connection 30|url jdbc:h2:mem:testdb|drop table if exists users CASCADE |drop table if exists users CASCADE 
